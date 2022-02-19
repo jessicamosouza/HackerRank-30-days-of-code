@@ -1,4 +1,4 @@
-package hk1
+package Day_0
 
 import (
 	"bufio"
